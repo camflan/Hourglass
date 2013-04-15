@@ -73,7 +73,7 @@ void handle_init(AppContextRef ctx) {
   display_layer.update_proc = &display_layer_update_callback;
   layer_add_child(&window.layer, &display_layer);
 
-  GFont hour_font = fonts_get_system_font(FONT_KEY_GOTHAM_42_LIGHT);
+  GFont hour_font = fonts_get_system_font(FONT_KEY_GOTHAM_42_BOLD);
 
   text_layer_init(&hours_layer, window.layer.frame);
   text_layer_set_text_color(&hours_layer, GColorBlack);
