@@ -10,6 +10,8 @@ TODO
 ====
 Need to fix so that the hour text inverts as sand covers.
 
+Version of face with seconds - building next line outwards and upwards second-by-second.
+
 
 WHAT DOES IT LOOK LIKE?
 =======================
