@@ -14,4 +14,4 @@ Need to fix so that the hour text inverts as sand covers.
 WHAT DOES IT LOOK LIKE?
 =======================
 
-![watchface](http://raw.github.com/camflan/Hourglass/master/watchface.JPG)
+![watchface](https://raw.github.com/camflan/Hourglass/master/watchface.JPG)
