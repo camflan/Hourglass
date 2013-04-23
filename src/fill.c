@@ -8,7 +8,7 @@
 PBL_APP_INFO(MY_UUID,
              "Hourglass Fill", "Camron Flanders",
              0, 8, /* App version */
-             RESOURCE_ID_IMAGE_MENU_ICON,
+             DEFAULT_MENU_ICON,
              APP_INFO_WATCH_FACE);
 
 Window window;
