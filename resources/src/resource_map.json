@@ -1,10 +1,16 @@
-{"friendlyVersion": "0.8",
+{"friendlyVersion": "1.0",
  "versionDefName": "APP_RESOURCES",
  "media": [
-	   {
-	    "type":"png",
-	    "defName":"IMAGE_MENU_ICON",
-	    "file":"menu_icon_fill.png"
-	   }
+        {
+            "type":"png",
+            "defName":"IMAGE_MENU_ICON",
+            "file":"menu_icon_fill.png"
+        },
+        {
+            "type":"font",
+            "defName":"BEBAS_48",
+            "file":"BEBAS_48.ttf"
+        }
+
 	  ]
 }
