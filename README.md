@@ -3,14 +3,16 @@ Hourglass
 
 A Pebble Watchface, minutes fill up the background like an hourglasss with hour overlay.
 
+VARIANTS
+========
+Inverted hours face, hours text inverts as sand covers.
 
-Currently involves a hacky "drop shadow" hour text to be visible as sand fills. 
 
-TODO
+ENHANCEMENT IDEAS
 ====
-Need to fix so that the hour text inverts as sand covers.
-
 Version of face with seconds - building next line outwards and upwards second-by-second.
+Version of face with hashmarks on the :10s or :15s
+
 
 
 WHAT DOES IT LOOK LIKE?
