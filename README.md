@@ -16,4 +16,4 @@ Version of face with seconds - building next line outwards and upwards second-by
 WHAT DOES IT LOOK LIKE?
 =======================
 
-![watchface](https://raw.github.com/camflan/Hourglass/master/watchface.JPG)
+![watchface](https://raw.github.com/camflan/Hourglass/master/hourglass_with_watch.gif)
